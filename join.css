@@ -2,8 +2,7 @@ header {
   position: fixed;
   top: 0;
   left: 0;
-  right: 0;
-  
+  right: 0;  
   height: 40px;
   padding: 1rem;
   color: white;
@@ -12,6 +11,10 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.menu{
+  padding: 0 80px;
 }
 
 h1, p {
