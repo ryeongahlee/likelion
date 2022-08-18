@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../백앤드"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "partnermap-main 2"
+	}
+}
